@@ -1,0 +1,12 @@
+name: SpawnPointFixer
+main: amata1219.spawn.point.fixer.SpawnPointFixer
+version: 1.0.0
+api-version: 1.13
+author: amata1219(Twitter@amata1219)
+
+commands:
+  spfix:
+    description: main command.
+    usage: /<command>
+    permission: spawn.point.fixer.spfix
+    permission-message: You do not haver permission.
